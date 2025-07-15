@@ -15,8 +15,8 @@ body {
     justify-content: center;
     align-content: center;
     min-height: 150vh;
-    grid-template-columns: repeat(3,200px);
-    grid-template-rows: minmax(200px, auto) repeat(5,200px);
+    grid-template-columns: repeat(3,70px);
+    grid-template-rows: minmax(70px, auto) repeat(5,70px);
 }
 .grid > button {
     cursor: pointer;
